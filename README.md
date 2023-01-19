@@ -1,7 +1,7 @@
 # 💫 About Me:
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
-## publications:
+## 🧾publications:
   Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival
   DOI: 10.1096/fj.202201510RR
 
