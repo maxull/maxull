@@ -1,4 +1,4 @@
-# 👨‍🔬 About Me:                            ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 👨‍🔬 About Me:                            >>>![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
 ## 🧾publications:
