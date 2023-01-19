@@ -13,7 +13,7 @@ M.Sc in exercise physiology, specializing in epigenome and transcriptome analysi
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/max.ullrich.969/) 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/max.ullrich) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxullrich/) 
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%230077B5.svg?logo=ResearchGate&logoColor=white)] (https://www.researchgate.net/profile/Max-Ullrich-5)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0cb.svg?logo=ResearchGate&logoColor=white)] (https://www.researchgate.net/profile/Max-Ullrich-5)
 
 # 💻 Tech Stack:
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
