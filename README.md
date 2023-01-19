@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍🔬 About Me:
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
 ## 🧾publications:
