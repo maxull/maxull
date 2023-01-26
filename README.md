@@ -1,5 +1,3 @@
-<img align = "Center" alt = "Coding" width = "800" src = "https://media.tenor.com/Zco-fadJri4AAAAd/code-matrix.gif">
-
 # 👨‍🔬 About Me:  <img src="https://komarev.com/ghpvc/?username=maxull&label=Profile%20views&color=ce9927&style=flat" alt="maxull" />
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
