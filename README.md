@@ -2,8 +2,7 @@
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
 ## 🧾publications:
-Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival
-  
+Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
 DOI: 10.1096/fj.202201510RR
 
 ## ⚖ Repository i collaborate on
@@ -11,10 +10,10 @@ DOI: 10.1096/fj.202201510RR
 
 
 ## 🌐 Socials:
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/max.ullrich.969/) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/max.ullrich) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxullrich/) 
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0cb.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Max-Ullrich-5)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/max.ullrich.969/) <br/>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/max.ullrich) <br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxullrich/) <br/>
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0cb.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Max-Ullrich-5)<br/>
 
 
 ## 📊 GitHub Stats:
