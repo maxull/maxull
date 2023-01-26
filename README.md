@@ -1,9 +1,10 @@
-# 👨‍🔬 About Me:
+# 👨‍🔬 About Me:  <img src="https://komarev.com/ghpvc/?username=maxull&label=Profile%20views&color=ce9927&style=flat" alt="maxull" />
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
+
 
 ## 🧾publications:
 Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
-[DOI](DOI: 10.1096/fj.202201510RR)
+[doi.org/10.1096/fj.202201510RR](https://doi.org/10.1096/fj.202201510RR)
 
 ## ⚖ Repository i collaborate on
 [Contratrain repository](https://github.com/dhammarstrom/contratrain)
