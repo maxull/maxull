@@ -3,7 +3,7 @@ M.Sc in exercise physiology, specializing in epigenome and transcriptome analysi
 
 ## 🧾publications:
 Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
-DOI: 10.1096/fj.202201510RR
+[DOI](DOI: 10.1096/fj.202201510RR)
 
 ## ⚖ Repository i collaborate on
 [Contratrain repository](https://github.com/dhammarstrom/contratrain)
@@ -17,8 +17,8 @@ DOI: 10.1096/fj.202201510RR
 
 
 ## 📊 GitHub Stats:
-<align = "Left" > ![](https://github-readme-stats.vercel.app/api?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-<align = "Right" >![](https://github-readme-streak-stats.herokuapp.com/?user=maxull&theme=blue-green&hide_border=false)<br/>
+<img align = "Left" > ![](https://github-readme-stats.vercel.app/api?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+<img align = "Right" >![](https://github-readme-streak-stats.herokuapp.com/?user=maxull&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
