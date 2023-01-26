@@ -17,8 +17,8 @@ DOI: 10.1096/fj.202201510RR
 
 
 ## 📊 GitHub Stats:
-<p align = "Left" > ![](https://github-readme-stats.vercel.app/api?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-<p align = "Right" >![](https://github-readme-streak-stats.herokuapp.com/?user=maxull&theme=blue-green&hide_border=false)<br/>
+<align = "Left" > ![](https://github-readme-stats.vercel.app/api?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+<align = "Right" >![](https://github-readme-streak-stats.herokuapp.com/?user=maxull&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
