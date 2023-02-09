@@ -1,4 +1,4 @@
-# 👨‍🔬 About Me:  <img src="https://komarev.com/ghpvc/?username=maxull&label=Profile%20views&color=ce9927&style=flat" alt="maxull" />
+# 👨‍🔬 About Me:  [![](https://visitcount.itsvg.in/api?id=maxull&icon=0&color=0)](https://visitcount.itsvg.in)
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
 
@@ -23,6 +23,6 @@ Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxull&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maxull&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
