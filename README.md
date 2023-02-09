@@ -6,7 +6,7 @@ M.Sc in exercise physiology, specializing in epigenome and transcriptome analysi
 Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
 [doi.org/10.1096/fj.202201510RR](https://doi.org/10.1096/fj.202201510RR)
 
-## ⚖ Repository i collaborate on
+## ⚖ Repository I collaborate on
 [Contratrain repository](https://github.com/dhammarstrom/contratrain)
 
 
