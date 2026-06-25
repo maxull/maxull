@@ -3,16 +3,22 @@ Ph.D fellow - Molecular Muscle Biology, focusing on Cell-Cell communication in 2
 
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
-
 ## 🧾 Publications:
 
-Repeated Disuse Atrophy Imprints a Molecular Memory in Skeletal Muscle: Transcriptional Resilience in Young Adults and Susceptibility in Aged Muscle <br/>
+Pre-print: [Exercise Training Improves Skeletal Muscle Insulin Sensitivity and Reprograms the Adipose Transcriptome in Heavier Monozygotic Twins](https://doi.org/10.64898/2026.06.15.26355744)
+
+[Repeated Disuse Atrophy Imprints a Molecular Memory in Skeletal Muscle: Transcriptional Resilience in Young Adults and Susceptibility in Aged Muscle](https://doi.org/10.1002/advs.202522726)
+
+[Histamine mediates food intake, but not muscle adaptations, following 10 weeks of resistance training in humans](https://doi.org/10.1113/JP289240?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
 
 [Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival](https://doi.org/10.1096/fj.202201510RR)
 
 ## 🧾 Myonuclear epigenetic changes following 7 weeks RT
 [Myonuclear Epigenetic Change Database](https://maxullrich.shinyapps.io/Epigenetics_MACS/) <- will be made accessible when published
 
+## R package 
+
+[hierGSEA](https://maxull.github.io/hierGSEA/index.html) - Hierarchy-aware post-processing of Gene Set Enrichment Analysis
 
 ## ⚖ Repository I collaborate on:
 [Contratrain repository](https://github.com/dhammarstrom/contratrain)
