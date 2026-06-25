@@ -1,8 +1,13 @@
 # 👨‍🔬 About Me:  [![](https://visitcount.itsvg.in/api?id=maxull&icon=0&color=0)](https://visitcount.itsvg.in)
+Ph.D fellow - Molecular Muscle Biology, focusing on Cell-Cell communication in 2D and 3D #Epigenetics #Transcriptomics #Proteomics #Metabolomics #Spatial multi-omics
+
 M.Sc in exercise physiology, specializing in epigenome and transcriptome analysis in R
 
 
 ## 🧾 Publications:
+
+Repeated Disuse Atrophy Imprints a Molecular Memory in Skeletal Muscle: Transcriptional Resilience in Young Adults and Susceptibility in Aged Muscle <br/>
+
 Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
 [doi.org/10.1096/fj.202201510RR](https://doi.org/10.1096/fj.202201510RR)
 
