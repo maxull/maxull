@@ -8,8 +8,7 @@ M.Sc in exercise physiology, specializing in epigenome and transcriptome analysi
 
 Repeated Disuse Atrophy Imprints a Molecular Memory in Skeletal Muscle: Transcriptional Resilience in Young Adults and Susceptibility in Aged Muscle <br/>
 
-Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival <br/>
-[doi.org/10.1096/fj.202201510RR](https://doi.org/10.1096/fj.202201510RR)
+[Aerobic Exercise Training Resets the Human Skeletal Muscle Methylome Ten Years after Breast Cancer Treatment and Survival](https://doi.org/10.1096/fj.202201510RR)
 
 ## 🧾 Myonuclear epigenetic changes following 7 weeks RT
 [Myonuclear Epigenetic Change Database](https://maxullrich.shinyapps.io/Epigenetics_MACS/) <- will be made accessible when published
